@@ -1,6 +1,6 @@
-# MAXSwerve Java Template v2026.0
+# Project Dodgeball v2026.0
 
-See [the online changelog](https://github.com/REVrobotics/MAXSwerve-Java-Template/blob/main/CHANGELOG.md) for information about updates to the template that may have been released since you created your project.
+Main project file for the 2026 FRC Competition year - REBUILD.
 
 ## Description
 
